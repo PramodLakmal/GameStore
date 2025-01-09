@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gtE6TzDYroM=",
+  "dgSpecHash": "IpAQAkPo6jA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\pramo\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
+  "projectFilePath": "c:\\Users\\pramo\\Desktop\\GameStore\\GameStore.Api\\GameStore.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pramo\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.0\\microsoft.data.sqlite.core.9.0.0.nupkg.sha512",
     "C:\\Users\\pramo\\.nuget\\packages\\microsoft.entityframeworkcore\\9.0.0\\microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
