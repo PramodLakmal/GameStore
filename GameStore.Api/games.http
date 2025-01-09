@@ -8,10 +8,10 @@ POST http://localhost:5117/games
 Content-Type: application/json
 
 {
-    "name": "Minecraf",
-    "genre": "Survival",
-    "price": 20.0,
-    "releaseDate": "2020-01-01"
+    "name": "The Last of Us Part II",
+    "genreId": 1,
+    "price": 59.99,
+    "releaseDate": "2020-06-19"
 }
 
 ###
